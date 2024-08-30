@@ -6,9 +6,11 @@ An adaptive learning platform! In order to stay motivated for learning, it is ve
 
 The main page includes all the important informations about the courses available. It also includes options for students to interact with chatbots to provide their project ideas and they can also recommend some new courses to include on Adaptica.
 
-Students are provided with the quiz option so that they can get discount offers on courses according to their scores.
+Students are provided with a feedback option where they can share their experience of overall course. The feedback feature is created by training the model using logistic regression.
 
 Students can contact us from the "Contact us" option on the navbar. The information about the students will send to the team's email address. This is created using Ajax.
+
+The courses available here are not real-life courses by mentor, we have given top youtube videos as references for the course.
 
 ## Technologies used:
 
